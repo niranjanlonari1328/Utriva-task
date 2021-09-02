@@ -336,6 +336,7 @@ html {
   }
   #content h1 {
     text-align: center;
+    margin-bottom: 5rem;
   }
   #content .orders .box {
     margin: 0 auto;
