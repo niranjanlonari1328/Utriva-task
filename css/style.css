@@ -339,16 +339,10 @@ html {
   }
   #content .orders .box {
     margin: 0 auto;
-    width: 70%;
-    margin-bottom: 8rem;
+    width: 80%;
+    margin-bottom: 10rem;
   }
   #content .orders .box .circle-box {
-    display: none;
-  }
-}
-
-@media (max-width: 600px) {
-  .circle-box {
     display: none;
   }
 }

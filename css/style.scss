@@ -349,8 +349,8 @@ $white:#fff;
 
             .box{
                 margin: 0 auto;
-                width: 70%;
-                margin-bottom:8rem;
+                width: 80%;
+                margin-bottom:10rem;
 
                 .circle-box{
                     display: none;
@@ -363,7 +363,7 @@ $white:#fff;
 @media(max-width:600px){
 
     .circle-box{
-        display: none;
+        
     }
 }
 // media queries ends
